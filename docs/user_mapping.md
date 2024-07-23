@@ -169,6 +169,6 @@ In this example, we show how the user can define all user mappings in one place.
         impact: low
         urgency: low
         attachments:
-          - path: targets/incident_with_mapping/res/sample_file.txt
+          - path: targets/itsm_incident_with_mapping/res/sample_file.txt
       register: result
     ```
